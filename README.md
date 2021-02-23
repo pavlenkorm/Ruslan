@@ -1,2 +1,0 @@
-# Ruslan
-My project
